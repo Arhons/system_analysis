@@ -1,6 +1,6 @@
 import numpy as np
 
-
+#task6
 def get_clusters_from_str(str_json):
     str_json = str(str_json[1:-1])
     str_split = str_json.split(",")
